@@ -1,1 +1,3 @@
-# ml-categorical-activity
+## ml-categorical-activity
+
+Proponents: Sarah Haw, Arabella Mejorada
